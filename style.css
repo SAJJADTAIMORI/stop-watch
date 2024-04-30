@@ -1,0 +1,12 @@
+stopwatch {
+    text-align: center;
+    margin-top: 50px;
+  }
+  body{
+    background-color: aqua;
+  }
+  
+  .display {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
